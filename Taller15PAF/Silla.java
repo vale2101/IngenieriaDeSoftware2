@@ -1,0 +1,3 @@
+interface Silla {
+    void crear();
+}
